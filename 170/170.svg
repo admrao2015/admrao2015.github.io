@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 714 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_170"><path d="M90.7 334.8V87.3H645.3V334.8Z"/></clipPath>
+<clipPath id="c1_170"><path d="M90.7 334.8V87.3H646.8V334.8Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_170{
+fill: #FFF;
+}
+.g1_170{
+fill: none;
+stroke: #000;
+stroke-width: 1.145;
+stroke-miterlimit: 10;
+}
+.g2_170{
+fill: #000;
+}
+.g3_170{
+fill: none;
+stroke: #000;
+stroke-width: 2.291;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<path d="M0 1017.7H717.2V-3.7H0V1017.7Z" class="g0_170"/>
+<g clip-path="url(#c1_170)">
+<path clip-path="url(#c0_170)" d="M90.7 87.3H645.3V334.8H90.7V87.3Z" class="g0_170"/>
+<path d="M114.2 325V103.2" class="g1_170"/>
+<path d="M114.2 97.1l2.7 8.1l-2.7 -2l-2.7 2l2.7 -8.1Z" class="g2_170"/>
+<path d="M114.2 97.1l2.7 8.1l-2.7 -2l-2.7 2l2.7 -8.1Zm0 227.9H519.4" class="g1_170"/>
+<path d="M525.4 325l-8 2.7l2 -2.7l-2 -2.6l8 2.6Z" class="g2_170"/>
+<path d="M525.4 325l-8 2.7l2 -2.7l-2 -2.6l8 2.6Z" class="g1_170"/>
+<path d="M160 233.4L526.7 107.3M114.2 325c31 .4 46.2 -30.1 45.8 -91.6m-44.6 30.9l412.5 -5.7M114.2 279.2c0 0 19.1 -.8 57.3 -2.3M148.6 188.7L526.7 170.3" class="g3_170"/>
+<path d="M170.9 325v-3.4h1.2V325m-1.2 -6.8v-3.5h1.2v3.5m-1.2 -6.9v-3.5h1.2v3.5m-1.2 -6.9V301h1.2v3.4m-1.2 -6.9v-3.4h1.2v3.4m-1.2 -6.8v-3.5h1.2v3.5m-1.2 -6.9v-3.5h1.2v3.5m-1.2 -6.9v-3.4h1.2v3.4M170.9 270v-3.4h1.2V270m-1.2 -6.8v-3.5h1.2v3.5m-1.2 -6.9v-3.5h1.2v3.5m-1.2 -6.9V246h1.2v3.4Z" class="g2_170"/>
+<path d="M171.5 246c0 0 118.4 -1.9 355.2 -5.8" class="g3_170"/>
+<path d="M148 326.2v-3.5h1.2v3.5M148 319.3v-3.4h1.2v3.4M148 312.4V309h1.2v3.4M148 305.5v-3.4h1.2v3.4M148 298.7v-3.5h1.2v3.5M148 291.8v-3.4h1.2v3.4M148 284.9v-3.4h1.2v3.4M148 278v-3.4h1.2V278M148 271.2v-3.5h1.2v3.5M148 264.3v-3.4h1.2v3.4M148 257.4V254h1.2v3.4M148 250.5v-3.4h1.2v3.4M148 243.7v-3.5h1.2v3.5M148 236.8v-3.4h1.2v3.4M148 229.9v-3.4h1.2v3.4M148 223v-3.4h1.2V223M148 216.2v-3.5h1.2v3.5M148 209.3v-3.4h1.2v3.4M148 202.4V199h1.2v3.4M148 195.5v-3.4h1.2v3.4M148 188.7v-1.2h1.2v1.2Z" class="g2_170"/>
+<path d="M114.2 205.9l34.4 -1.2" class="g3_170"/>
+</g>
+</svg>

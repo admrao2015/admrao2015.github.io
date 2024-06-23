@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 714 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_226"><path d="M87.1 216.8v-47H648.5v47Z"/></clipPath>
+<clipPath id="c1_226"><path d="M87.1 217.1V169.8H649.3v47.3Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_226{
+fill: #FFF;
+}
+.g1_226{
+fill: none;
+stroke: #000;
+stroke-width: 1.145;
+stroke-miterlimit: 10;
+}
+.g2_226{
+fill: #CCC;
+}
+]]></style>
+</defs>
+<path d="M0 1017.7H717.2V-3.7H0V1017.7Z" class="g0_226"/>
+<g clip-path="url(#c1_226)">
+<path clip-path="url(#c0_226)" d="M87.1 169.8H648.5v47H87.1v-47Z" class="g0_226"/>
+<path d="M87.6 170.4h83.7v45.9H87.6V170.4Z" class="g0_226"/>
+<path d="M87.6 170.4h83.7v45.9H87.6V170.4Z" class="g1_226"/>
+<path d="M171.3 170.4h45.8v45.9H171.3V170.4Z" class="g0_226"/>
+<path d="M171.3 170.4h45.8v45.9H171.3V170.4Z" class="g1_226"/>
+<path d="M217.1 170.4h45.8v45.9H217.1V170.4Z" class="g0_226"/>
+<path d="M217.1 170.4h45.8v45.9H217.1V170.4Z" class="g1_226"/>
+<path d="M262.9 170.4h41.3v45.9H262.9V170.4Z" class="g0_226"/>
+<path d="M262.9 170.4h41.3v45.9H262.9V170.4Z" class="g1_226"/>
+<path d="M304.2 170.4h67.6v45.9H304.2V170.4Z" class="g0_226"/>
+<path d="M304.2 170.4h67.6v45.9H304.2V170.4Z" class="g1_226"/>
+<path d="M371.8 170.4H413v45.9H371.8V170.4Z" class="g2_226"/>
+<path d="M371.8 170.4H413v45.9H371.8V170.4Z" class="g1_226"/>
+<path d="M413 170.4h45.9v45.9H413V170.4Z" class="g2_226"/>
+<path d="M413 170.4h45.9v45.9H413V170.4Z" class="g1_226"/>
+<path d="M458.9 170.4h45.8v45.9H458.9V170.4Z" class="g0_226"/>
+<path d="M458.9 170.4h45.8v45.9H458.9V170.4Z" class="g1_226"/>
+<path d="M504.7 170.4H546v45.9H504.7V170.4Z" class="g2_226"/>
+<path d="M504.7 170.4H546v45.9H504.7V170.4Z" class="g1_226"/>
+<path d="M546 170.4H647.9v45.9H546V170.4Z" class="g2_226"/>
+<path d="M546 170.4H647.9v45.9H546V170.4Z" class="g1_226"/>
+</g>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 714 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_64{
+fill: #FFF;
+}
+.g1_64{
+fill: none;
+stroke: #000;
+stroke-width: 1.217;
+stroke-miterlimit: 10;
+}
+.g2_64{
+fill: none;
+stroke: #000;
+stroke-width: 1.156;
+stroke-miterlimit: 10;
+}
+.g3_64{
+fill: none;
+stroke: #000;
+stroke-width: 0.76;
+stroke-miterlimit: 10;
+}
+.g4_64{
+fill: none;
+stroke: #000;
+stroke-width: 0.608;
+stroke-miterlimit: 10;
+}
+.g5_64{
+fill: none;
+stroke: #000;
+stroke-width: 0.608;
+stroke-miterlimit: 10;
+stroke-dasharray: 5,5;
+}
+.g6_64{
+fill: #FFF;
+stroke: #000;
+stroke-width: 0.608;
+stroke-miterlimit: 10;
+}
+.g7_64{
+fill: #808080;
+stroke: #000;
+stroke-width: 0.608;
+stroke-miterlimit: 10;
+}
+.g8_64{
+fill: #D3D3D3;
+stroke: #000;
+stroke-width: 0.608;
+stroke-miterlimit: 10;
+}
+.g9_64{
+fill: #000;
+stroke: #000;
+stroke-width: 0.608;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<path d="M0 1017.7H717.2V-3.7H0V1017.7Z" class="g0_64"/>
+<path d="M104.9 519.4H614.8" class="g1_64"/>
+<path d="M104.9 563.7H614.8" class="g2_64"/>
+<path d="M104.9 590.4H614.8M104.9 616.9H614.8M104.9 643.4H614.8" class="g3_64"/>
+<path d="M104.9 670.2H614.8" class="g1_64"/>
+<path d="M140.1 883.3V753.4m0 129.9h511" class="g4_64"/>
+<path d="M194.4 883.3V753.4m54.4 129.9V753.4m54.4 129.9V753.4m54.4 129.9V753.4m54.3 129.9V753.4m54.4 129.9V753.4m54.4 129.9V753.4m54.4 129.9V753.4m54.3 129.9V753.4" class="g5_64"/>
+<path d="M140.1 796.7h3.6V766.4h-3.6v30.3Z" class="g6_64"/>
+<path d="M143.7 796.7h9.1V766.4h-9.1v30.3Z" class="g7_64"/>
+<path d="M152.8 796.7h12.8V766.4H152.8v30.3Z" class="g8_64"/>
+<path d="M165.6 796.7h1.7V766.4h-1.7v30.3Z" class="g9_64"/>
+<path d="M140.1 840h10.1V809.7H140.1V840Z" class="g6_64"/>
+<path d="M150.2 840h22.1V809.7H150.2V840Z" class="g7_64"/>
+<path d="M172.3 840h25.6V809.7H172.3V840Z" class="g8_64"/>
+<path d="M197.9 840h4.3V809.7h-4.3V840Z" class="g9_64"/>
+<path d="M140.1 883.3H162V853H140.1v30.3Z" class="g6_64"/>
+<path d="M162 883.3H293.6V853H162v30.3Z" class="g7_64"/>
+<path d="M293.6 883.3h51.1V853H293.6v30.3Z" class="g8_64"/>
+<path d="M344.7 883.3H353V853h-8.3v30.3Z" class="g9_64"/>
+</svg>
